@@ -9,7 +9,8 @@
 	+ Also mention about streetscore, a safety score based on the Google Street View API. More detail can be found at [http://streetscore.media.mit.edu/data.html](http://streetscore.media.mit.edu/data.html)
 
 2. Definition of gentrification
-	3. 
+
+	+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTc5NzUwNTldfQ==
+eyJoaXN0b3J5IjpbMTA5NjAwMjMzMV19
 -->
