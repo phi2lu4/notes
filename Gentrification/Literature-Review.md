@@ -10,7 +10,7 @@
 
 2. Definition of gentrification
 
-	+ 
+	+ From the [Wikipedia page](https://en.wikipedia.org/wiki/Gentrification)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NjAwMjMzMV19
+eyJoaXN0b3J5IjpbOTM4NTk4MDhdfQ==
 -->
