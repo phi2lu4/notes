@@ -13,7 +13,7 @@
 	+ From the [Wikipedia page](https://en.wikipedia.org/wiki/Gentrification)
 	+ The literature review of the neighborhood change. Gentrification can be defined as the neighborhood ascent (from a poor one) with other properties and relationships.
 	+ Some other papers might contain the definition of the gentrification... read more!!
-	+ There is a relationship between Starbucks stores and the pricing of houses, which 
+	+ There is a relationship between Starbucks stores and the pricing of houses, which might be the proxy for the gentrification. A infographics is [here](https://knoema.com/infographics/kchdsge/number-of-starbucks-stores-globally-1992-2018)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDY5Mzg0MDAsOTM4NTk4MDhdfQ==
+eyJoaXN0b3J5IjpbMTk1NzMzMTA2Niw5Mzg1OTgwOF19
 -->
