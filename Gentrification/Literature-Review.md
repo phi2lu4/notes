@@ -11,6 +11,7 @@
 2. Definition of gentrification
 
 	+ From the [Wikipedia page](https://en.wikipedia.org/wiki/Gentrification)
+	+ The literature review of the neighborhood change. Gentrification can be defined as the neighborhood ascent (from a poor one) with other properties and relationships.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM4NTk4MDhdfQ==
+eyJoaXN0b3J5IjpbOTU0NTg4MjM5LDkzODU5ODA4XX0=
 -->
