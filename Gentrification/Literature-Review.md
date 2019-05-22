@@ -15,6 +15,8 @@
 	+ Some other papers might contain the definition of the gentrification... read more!!
 	+ There is a relationship between Starbucks stores and the pricing of houses, which might be the proxy for the gentrification. A infographics is [here](https://knoema.com/infographics/kchdsge/number-of-starbucks-stores-globally-1992-2018)
 	+ Governing Journal had a special issue on gentrification in 2015 at [https://www.governing.com/gov-data/census/gentrification-in-cities-governing-report.html](https://www.governing.com/gov-data/census/gentrification-in-cities-governing-report.html)
+
+3. Quick thoughts: Using the small area estimate techniques to go from sub-borough to census tracts. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMzA3MjgwMSw5Mzg1OTgwOF19
+eyJoaXN0b3J5IjpbNDEyMjcxNDQsOTM4NTk4MDhdfQ==
 -->
